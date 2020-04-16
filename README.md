@@ -13,5 +13,5 @@ To be able to run the jar on your system you need:
 
 ### Running
 
-Open this directory in terminal ```/json-parser/out/artifacts/json_parser_jar/json-parser.jar```  
+Open this directory in terminal ```/json-parser/out/artifacts/json_parser_jar/```  
 and run  ``` java -jar json-parser.jar ```.
